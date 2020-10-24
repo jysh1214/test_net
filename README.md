@@ -4,7 +4,7 @@ simple fcn
 
 ## use
 ```bash
-make && ./example/nn
+make && ./nn
 ```
 
 ## example nn network
